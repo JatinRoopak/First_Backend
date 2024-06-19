@@ -1,0 +1,15 @@
+{
+  "name": "noding",
+  "version": "1.0.0",
+  "description": "New noding app diployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jstara/crookinspector",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
